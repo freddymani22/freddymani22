@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freddymani22
 - 👀 I’m interested in web development mostly backend.
 - 🌱 I’m currently learning front end.
-- 💞️ I’m self taught web developer.
+- 💞️ I’m a self-taught web developer.
 - 📫 reach me through my portfolio freddymani.pythonanywhere.com
 
 <!---
